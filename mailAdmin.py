@@ -4,3 +4,7 @@ print("Admin File Loaded")
 print("changes maded to admin file by vidya 1")
 
 Print("Vidya 1 changes at 19/05/2026")
+
+#changes made by vidya 2
+sum = 10 + 20
+print("Sum is ", sum)
